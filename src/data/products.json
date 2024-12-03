@@ -1,0 +1,108 @@
+[
+  {
+    "id": 1,
+    "name": "Smart Watch",
+    "category": "watch",
+    "description": "Stylish hand.",
+    "price": 79.99,
+    "oldPrice": 99.99,
+    "image": "https://i.postimg.cc/mZ5sRWMC/watch-prod-1.webp",
+    "color": "black",
+    "rating": 4.5,
+    "author": "admin"
+  },
+  {
+    "id": 2,
+    "name": "Smart Watch",
+    "category": "watch",
+    "description": "Stylish hand.",
+    "price": 149.99,
+    "oldPrice": 199.99,
+    "image": "https://i.postimg.cc/yY3z8pX5/watch-prod-2.webp",
+    "color": "red",
+    "rating": 4.0
+  },
+  {
+    "id": 3,
+    "name": "Smart Watch",
+    "category": "watch",
+    "description": "Stylish hand.",
+    "price": 199.99,
+    "image": "https://i.postimg.cc/C5XT4bYm/watch-prod-3.webp",
+    "color": "gold",
+    "rating": 4.7
+  },
+  {
+    "id": 4,
+    "name": "Headset",
+    "category": "headphone",
+    "description": "Stylish Head.",
+    "price": 19.99,
+    "image": "https://i.postimg.cc/rsv34cCH/headphone-prod-1.webp",
+    "color": "red",
+    "rating": 4.2
+  },
+  {
+    "id": 5,
+    "name": "Headset",
+    "category": "headphone",
+    "description": "Stylish Head.",
+    "price": 29.99,
+    "oldPrice": 39.99,
+    "image": "https://i.postimg.cc/fLq6wY3D/headphone-prod-2.webp",
+    "color": "blue",
+    "rating": 4.3
+  },
+  {
+    "id": 6,
+    "name": "Headset",
+    "category": "headphone",
+    "description": "Stylish Head.",
+    "price": 89.99,
+    "image": "https://i.postimg.cc/0j6hrrmm/headphone-prod-3.webp",
+    "color": "black",
+    "rating": 4.4
+  },
+  {
+    "id": 7,
+    "name": "Headset",
+    "category": "headphone",
+    "description": "Stylish Head.",
+    "price": 299.99,
+    "oldPrice": 349.99,
+    "image": "https://i.postimg.cc/Y9C5KdCd/headphone-prod-4.webp",
+    "color": "silver",
+    "rating": 4.8
+  },
+  {
+    "id": 8,
+    "name": "Headset",
+    "category": "headphone",
+    "description": "Stylish Head.",
+    "price": 39.99,
+    "image": "https://i.postimg.cc/dQXzpmP9/headphone-prod-5.webp",
+    "color": "beige",
+    "rating": 4.1
+  },
+  {
+    "id": 9,
+    "name": "Headset",
+    "category": "headphone",
+    "description": "Stylish Head.",
+    "price": 49.99,
+    "image": "https://i.postimg.cc/BQKd0LJf/headphone-prod-6.webp",
+    "color": "black",
+    "rating": 4.6
+  },
+  {
+    "id": 10,
+    "name": "Bluetooth",
+    "category": "speaker",
+    "description": "Stylish Sound.",
+    "price": 59.99,
+    "oldPrice": 79.99,
+    "image": "https://i.postimg.cc/52WDN4tY/speaker-prod-1.webp",
+    "color": "green",
+    "rating": 4.2
+  }
+]
